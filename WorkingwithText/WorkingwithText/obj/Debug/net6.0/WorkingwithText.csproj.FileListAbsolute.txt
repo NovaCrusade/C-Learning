@@ -1,4 +1,0 @@
-D:\Portfolio\NovaWorks\Self-Taught\C#\WorkingwithText\WorkingwithText\obj\Debug\net6.0\WorkingwithText.GeneratedMSBuildEditorConfig.editorconfig
-D:\Portfolio\NovaWorks\Self-Taught\C#\WorkingwithText\WorkingwithText\obj\Debug\net6.0\WorkingwithText.AssemblyInfoInputs.cache
-D:\Portfolio\NovaWorks\Self-Taught\C#\WorkingwithText\WorkingwithText\obj\Debug\net6.0\WorkingwithText.AssemblyInfo.cs
-D:\Portfolio\NovaWorks\Self-Taught\C#\WorkingwithText\WorkingwithText\obj\Debug\net6.0\WorkingwithText.csproj.CoreCompileInputs.cache
