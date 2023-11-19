@@ -1,0 +1,7 @@
+D:\Portfolio\NovaWorks\Self-Taught\C#\Arrays_Lists\Arrays_Lists\bin\Debug\Arrays_Lists.exe.config
+D:\Portfolio\NovaWorks\Self-Taught\C#\Arrays_Lists\Arrays_Lists\bin\Debug\Arrays_Lists.exe
+D:\Portfolio\NovaWorks\Self-Taught\C#\Arrays_Lists\Arrays_Lists\bin\Debug\Arrays_Lists.pdb
+D:\Portfolio\NovaWorks\Self-Taught\C#\Arrays_Lists\Arrays_Lists\obj\Debug\Arrays_Lists.csproj.AssemblyReference.cache
+D:\Portfolio\NovaWorks\Self-Taught\C#\Arrays_Lists\Arrays_Lists\obj\Debug\Arrays_Lists.csproj.CoreCompileInputs.cache
+D:\Portfolio\NovaWorks\Self-Taught\C#\Arrays_Lists\Arrays_Lists\obj\Debug\Arrays_Lists.exe
+D:\Portfolio\NovaWorks\Self-Taught\C#\Arrays_Lists\Arrays_Lists\obj\Debug\Arrays_Lists.pdb

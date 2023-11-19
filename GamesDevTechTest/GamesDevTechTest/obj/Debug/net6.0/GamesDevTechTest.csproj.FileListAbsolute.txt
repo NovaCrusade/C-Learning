@@ -1,0 +1,14 @@
+D:\Portfolio\NovaWorks\Self-Taught\C#\GamesDevTechTest\GamesDevTechTest\bin\Debug\net6.0\GamesDevTechTest.exe
+D:\Portfolio\NovaWorks\Self-Taught\C#\GamesDevTechTest\GamesDevTechTest\bin\Debug\net6.0\GamesDevTechTest.deps.json
+D:\Portfolio\NovaWorks\Self-Taught\C#\GamesDevTechTest\GamesDevTechTest\bin\Debug\net6.0\GamesDevTechTest.runtimeconfig.json
+D:\Portfolio\NovaWorks\Self-Taught\C#\GamesDevTechTest\GamesDevTechTest\bin\Debug\net6.0\GamesDevTechTest.dll
+D:\Portfolio\NovaWorks\Self-Taught\C#\GamesDevTechTest\GamesDevTechTest\bin\Debug\net6.0\GamesDevTechTest.pdb
+D:\Portfolio\NovaWorks\Self-Taught\C#\GamesDevTechTest\GamesDevTechTest\obj\Debug\net6.0\GamesDevTechTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Portfolio\NovaWorks\Self-Taught\C#\GamesDevTechTest\GamesDevTechTest\obj\Debug\net6.0\GamesDevTechTest.AssemblyInfoInputs.cache
+D:\Portfolio\NovaWorks\Self-Taught\C#\GamesDevTechTest\GamesDevTechTest\obj\Debug\net6.0\GamesDevTechTest.AssemblyInfo.cs
+D:\Portfolio\NovaWorks\Self-Taught\C#\GamesDevTechTest\GamesDevTechTest\obj\Debug\net6.0\GamesDevTechTest.csproj.CoreCompileInputs.cache
+D:\Portfolio\NovaWorks\Self-Taught\C#\GamesDevTechTest\GamesDevTechTest\obj\Debug\net6.0\GamesDevTechTest.dll
+D:\Portfolio\NovaWorks\Self-Taught\C#\GamesDevTechTest\GamesDevTechTest\obj\Debug\net6.0\refint\GamesDevTechTest.dll
+D:\Portfolio\NovaWorks\Self-Taught\C#\GamesDevTechTest\GamesDevTechTest\obj\Debug\net6.0\GamesDevTechTest.pdb
+D:\Portfolio\NovaWorks\Self-Taught\C#\GamesDevTechTest\GamesDevTechTest\obj\Debug\net6.0\GamesDevTechTest.genruntimeconfig.cache
+D:\Portfolio\NovaWorks\Self-Taught\C#\GamesDevTechTest\GamesDevTechTest\obj\Debug\net6.0\ref\GamesDevTechTest.dll
