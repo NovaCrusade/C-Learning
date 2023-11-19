@@ -1,0 +1,14 @@
+D:\Portfolio\NovaWorks\Self-Taught\C#\ControlFlow\ControlFlow\obj\Debug\net6.0\ControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Portfolio\NovaWorks\Self-Taught\C#\ControlFlow\ControlFlow\obj\Debug\net6.0\ControlFlow.AssemblyInfoInputs.cache
+D:\Portfolio\NovaWorks\Self-Taught\C#\ControlFlow\ControlFlow\obj\Debug\net6.0\ControlFlow.AssemblyInfo.cs
+D:\Portfolio\NovaWorks\Self-Taught\C#\ControlFlow\ControlFlow\obj\Debug\net6.0\ControlFlow.csproj.CoreCompileInputs.cache
+D:\Portfolio\NovaWorks\Self-Taught\C#\ControlFlow\ControlFlow\bin\Debug\net6.0\ControlFlow.exe
+D:\Portfolio\NovaWorks\Self-Taught\C#\ControlFlow\ControlFlow\bin\Debug\net6.0\ControlFlow.deps.json
+D:\Portfolio\NovaWorks\Self-Taught\C#\ControlFlow\ControlFlow\bin\Debug\net6.0\ControlFlow.runtimeconfig.json
+D:\Portfolio\NovaWorks\Self-Taught\C#\ControlFlow\ControlFlow\bin\Debug\net6.0\ControlFlow.dll
+D:\Portfolio\NovaWorks\Self-Taught\C#\ControlFlow\ControlFlow\bin\Debug\net6.0\ControlFlow.pdb
+D:\Portfolio\NovaWorks\Self-Taught\C#\ControlFlow\ControlFlow\obj\Debug\net6.0\ControlFlow.dll
+D:\Portfolio\NovaWorks\Self-Taught\C#\ControlFlow\ControlFlow\obj\Debug\net6.0\refint\ControlFlow.dll
+D:\Portfolio\NovaWorks\Self-Taught\C#\ControlFlow\ControlFlow\obj\Debug\net6.0\ControlFlow.pdb
+D:\Portfolio\NovaWorks\Self-Taught\C#\ControlFlow\ControlFlow\obj\Debug\net6.0\ControlFlow.genruntimeconfig.cache
+D:\Portfolio\NovaWorks\Self-Taught\C#\ControlFlow\ControlFlow\obj\Debug\net6.0\ref\ControlFlow.dll
