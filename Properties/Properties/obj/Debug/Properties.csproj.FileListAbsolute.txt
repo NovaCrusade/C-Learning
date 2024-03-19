@@ -1,0 +1,7 @@
+D:\Portfolio\NovaWorks\Self-Taught\C#\C-Learning\Properties\Properties\bin\Debug\Properties.exe.config
+D:\Portfolio\NovaWorks\Self-Taught\C#\C-Learning\Properties\Properties\bin\Debug\Properties.exe
+D:\Portfolio\NovaWorks\Self-Taught\C#\C-Learning\Properties\Properties\bin\Debug\Properties.pdb
+D:\Portfolio\NovaWorks\Self-Taught\C#\C-Learning\Properties\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+D:\Portfolio\NovaWorks\Self-Taught\C#\C-Learning\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+D:\Portfolio\NovaWorks\Self-Taught\C#\C-Learning\Properties\Properties\obj\Debug\Properties.exe
+D:\Portfolio\NovaWorks\Self-Taught\C#\C-Learning\Properties\Properties\obj\Debug\Properties.pdb

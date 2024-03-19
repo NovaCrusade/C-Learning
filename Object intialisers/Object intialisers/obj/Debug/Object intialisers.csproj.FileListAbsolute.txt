@@ -1,0 +1,7 @@
+D:\Portfolio\NovaWorks\Self-Taught\C#\C-Learning\Object intialisers\Object intialisers\bin\Debug\Object intialisers.exe.config
+D:\Portfolio\NovaWorks\Self-Taught\C#\C-Learning\Object intialisers\Object intialisers\bin\Debug\Object intialisers.exe
+D:\Portfolio\NovaWorks\Self-Taught\C#\C-Learning\Object intialisers\Object intialisers\bin\Debug\Object intialisers.pdb
+D:\Portfolio\NovaWorks\Self-Taught\C#\C-Learning\Object intialisers\Object intialisers\obj\Debug\Object intialisers.csproj.AssemblyReference.cache
+D:\Portfolio\NovaWorks\Self-Taught\C#\C-Learning\Object intialisers\Object intialisers\obj\Debug\Object intialisers.csproj.CoreCompileInputs.cache
+D:\Portfolio\NovaWorks\Self-Taught\C#\C-Learning\Object intialisers\Object intialisers\obj\Debug\Object intialisers.exe
+D:\Portfolio\NovaWorks\Self-Taught\C#\C-Learning\Object intialisers\Object intialisers\obj\Debug\Object intialisers.pdb
